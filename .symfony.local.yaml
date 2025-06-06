@@ -1,0 +1,4 @@
+# .symfony.local.yaml
+php:
+    # Reemplaza esta ruta por la ruta EXACTA de tu php.exe de XAMPP
+    executable: 'C:\Program Files\xampp\phpphp.exe'
